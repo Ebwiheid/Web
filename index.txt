@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>css potision</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div id="header">шапка сайта</div>
+<div id="menu">меню</div>
+<div id="content">
+контент
+<div id="news">Р±Р»РѕРє РЅРѕРІРѕСЃС‚РµР№</div>
+</div>
+<div id="footer">низ сайта</div>
+</body>
+</html>
